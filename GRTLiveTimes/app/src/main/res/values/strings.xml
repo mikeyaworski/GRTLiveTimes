@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- IDs for View tags -->
+    <item type="id" name="ID_TAG" />
+
+    <string name="app_name">GRT Live Times</string>
+    <string name="title_activity_manage_favourites">Manage Favourites</string>
+    <string name="title_activity_add_favourite">Add Favourite</string>
+    <string name="title_activity_edit_favourite">Edit Favourite</string>
+</resources>
