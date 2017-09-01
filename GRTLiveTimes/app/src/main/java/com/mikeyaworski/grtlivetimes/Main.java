@@ -36,7 +36,7 @@ public class Main extends AppCompatActivity {
     private EditText txtStop, txtRoute;
     private TextView display;
 
-    private static final String GRT_API_URL = "http://nwoodthorpe.com/grt/V2/livetime.php?stop="; // https://github.com/nwoodthorpe/GRTUnofficialLiveAPI
+    private static final String GRT_API_URL = "http://mikeyaworski.com/random/grt/live.php?stop="; // https://github.com/nwoodthorpe/GRTUnofficialLiveAPI
     private static final String NO_DATA_FOUND_ERROR_MESSAGE = "No data loaded. Stop was not found or busses are not running anymore.";
     private static final String MALFORMED_INPUT_ERROR_MESSAGE = "Invalid input.";
 
